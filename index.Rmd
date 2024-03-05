@@ -1,5 +1,5 @@
 ---
-title: "Stuff for Migun"
+title: "PROJECT HOME"
 ---
 
 
@@ -7,14 +7,13 @@ title: "Stuff for Migun"
 library(rmarkdown)
 library(bookdown)
 
-#might need to remake docs/ everytime?
 #knit this then commit and push
 
 #render 1_building_phylo_obj_raw_data_wrangling.Rmd
-rmarkdown::render("code/1_building_phylo_obj_raw_data_wrangling.Rmd", output_file="/Users/L347123/Desktop/bos-lab-kfscripts/docs/1_raw_data_wrangling")
+rmarkdown::render("code/1_building_phylo_obj_raw_data_wrangling.Rmd", output_file="/Users/L347123/Desktop/REPO/docs/1_raw_data_wrangling")
 
 
 ```
 
 
-<a href="1_raw_data_wrangling.html" target="_blank">Cally - click here</a>
+<a href="1_raw_data_wrangling.html" target="_blank">Example link</a>
