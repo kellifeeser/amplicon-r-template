@@ -1,4 +1,4 @@
-name: "kf-scripts-for-bosloab"
+name: "REPO/PROJECT"
 output:
   bookdown::html_document2:
     lib_dir: docs/site_libs
@@ -9,4 +9,4 @@ navbar:
     - text: "Home"
       href: index.html
 
-baseurl: "/bos-lab-kfscripts/" # Set your base URL here
+baseurl: "/REPO/" # Set your base URL here
